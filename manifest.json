@@ -1,0 +1,11 @@
+﻿{
+	"name": "SmiteItems",
+	"version_number": "1.0.0",
+	"website_url": "",
+	"description": "Add a bunch of items from the MOBA game SMITE.",
+	"dependencies": [
+		"ReturnOfModding-ReturnOfModding-1.0.67",
+		"RoRRModdingToolkit-RoRR_Modding_Toolkit-1.2.18",
+		"LuaENVY-ENVY-1.2.0"
+	]
+}
