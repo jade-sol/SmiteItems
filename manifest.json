@@ -1,7 +1,7 @@
 ﻿{
 	"name": "SmiteItems",
 	"version_number": "1.0.0",
-	"website_url": "",
+	"website_url": "https://github.com/jade-sol/SmiteItems",
 	"description": "Add a bunch of items from the MOBA game SMITE.",
 	"dependencies": [
 		"ReturnOfModding-ReturnOfModding-1.0.67",
